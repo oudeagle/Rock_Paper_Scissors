@@ -14,7 +14,7 @@ Or download the source code as a ZIP file and extract it.
 
 ### 2. Compile the program
 Use a C++ compiler (like 'g++') to compile the source code. (I personally g++, so I recommend you do the same):
-````
+```
 g++ -std=c++20 -o Rock_Paper_Scissors rock_paper_scissors.cpp
 ```
 > [!NOTE]
