@@ -37,3 +37,14 @@ rock
 You Lose!!
 
 ```
+## Some Interesting Notes
+- The program uses the srand(time(NULL)); function to seed the random number generator, ensuring that the computer's choice is different each time the game is played.
+- User input is case-insensitive; the program converts all user input to lowercase before processing.
+- If an invalid input is entered, the program will output "Invalid Input" and end the game.
+
+## Requirements
+- A C++ Compiler (g++ recommended)
+- Basic knowledge of C++ and a command-line interface.
+
+
+
