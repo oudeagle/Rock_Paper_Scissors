@@ -18,11 +18,22 @@ Use a C++ compiler (like 'g++') to compile the source code. (I personally g++, s
 g++ -std=c++20 -o Rock_Paper_Scissors rock_paper_scissors.cpp
 ```
 > [!NOTE]
-> I have used the formatting library which is exclusive to C++ 20 and upward. So you **need** to have option **-std=c++20** otherwise it won't work.
+> I have used the formatting library which is exclusive to c++20 and upward. So you **need** to have option **-std=c++20** otherwise it won't work.
 
 ### 3. Execute the program
 Execute the now compiled program:
 ```
 ./Rock_Paper_Scissors
 ```
+### 4. Enter Your Choice:
+The program will prompt you to enter either 'rock', 'paper' or 'scissors'. Type your choice and press Enter.
+### 5. View the Result:
+The program will compare your choice with the computer's choice and display the result, which could be either "You Win!!", "You Lose!!", or "DRAW!!"
 
+### Example Output:
+```
+Enter either rock, paper or scissors: 
+rock
+You Lose!!
+
+```
