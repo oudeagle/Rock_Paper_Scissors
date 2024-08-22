@@ -7,8 +7,6 @@ The game allows you to play against the computer by selecting one of three optio
 
 ## Download Instructions
 ### 1. Clone Repo:
-```git clone https://github.com/oudeagle/Rock_Paper_Scissors.git```
 ```
-```
-```
+git clone https://github.com/oudeagle/Rock_Paper_Scissors.git
 ```
